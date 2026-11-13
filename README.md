@@ -1,4 +1,4 @@
-<h1 align="center">Pamela Silva</h1>
+<h1 align="center">Pâmela Silva</h1>
 <p align="center">Finanças, dados e automação com IA · Ciências Contábeis na UFBA</p>
 <p align="center">✦ ────── ✧ ────── ✦</p>
 
